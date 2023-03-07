@@ -51,4 +51,4 @@ I'm going to study more about CSS so I don't get stuck in a bug or misalignment 
 
 ## Author
 
-- Frontend Mentor - [@marcosviniciuscolares](https://www.frontendmentor.io/profile/marcosviniciuscolares)
+- Frontend Mentor - [@Avantiermv](https://www.frontendmentor.io/profile/Avantiermv)
