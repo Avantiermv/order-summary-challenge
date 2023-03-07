@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+/* Desktop style */ 
+
+@media screen and (min-width: 675px) {
+
+    body{
+        background-image: url(../images/pattern-background-desktop.svg);
+    }
+
+    section{
+        width: 460px;
+        border-radius: 20px;
+        height: 686px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    div#img{
+        background-image: url(../images/pattern-background-desktop.svg);
+    }
+
+    div#conteudo{
+        margin: 30px;
+    }
+
+    div#conteudo > h1{
+        font-size: 32px;
+    }
+
+    div#conteudo > p{
+        font-size: 19px;
+    }
+
+    div#annualplan > img{
+        transform: translate(-130px, 20px);
+    }
+
+    div#annualplan{
+        text-align: center;
+        margin: 30px;
+    }
+
+    div#comprar{
+        margin: 30px;
+    }
+
+}
