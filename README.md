@@ -24,13 +24,13 @@ Users must be able to:
 
 ### Print Screen
 
-![](./images/Captura20%da20%Web_7-3-2023_8553_avantiermv.github.io.jpeg)
+![](./images/Captura%20da%20Web_7-3-2023_8553_avantiermv.github.io.jpeg)
 
 
 ### Links
 
 - Solution URL: [https://github.com/Avantiermv/order-summary-challenge]
-- Live website URL: [https://marcosviniciuscolares.github.io/order-summary-component-challenge/]
+- Live website URL: [https://avantiermv.github.io/order-summary-challenge/]
 
 ## My process
 
